@@ -1,0 +1,24 @@
+/*style.css*/
+
+.first{
+    background-color: pink;
+    font-family: "Veranda",sans-serif;
+}
+#second{
+    color: blue;
+    font-size: 36px;
+}
+.third{
+    background-color: pink;
+    font-family: "DejaVu Sans",sans-serif;
+    font-size: 24px;
+}
+#fourth{
+    background-color: lightgreen;
+    font-weight: 700;
+    font-size: 24px;
+}
+.fifth{
+    background-color: pink;
+    font-family: "DejaVu Sans",sans-serif;
+}
